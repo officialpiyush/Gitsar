@@ -1,0 +1,20 @@
+{
+  "name": "gitsar",
+  "version": "0.1.0",
+  "description": "An API wrapper around github v3 API",
+  "main": "index.js",
+  "repository": "https://github.com/officialpiyush/Gitsar.git",
+  "author": "Piyush Bhangale",
+  "license": "GNU GPLv3",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^12.0.8",
+    "@types/node-fetch": "^2.3.5",
+    "docma": "^3.2.2",
+    "tslint": "^5.17.0",
+    "typescript": "^3.5.1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
