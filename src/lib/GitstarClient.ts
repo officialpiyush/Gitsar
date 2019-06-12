@@ -5,6 +5,7 @@ class GitstarClient {
     protected token: string | null;
 
     /**
+     * @constructor
      * @param  {IOptions} options
      * @param {options.token} token - The Github acess token
      */
